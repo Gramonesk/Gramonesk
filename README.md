@@ -1,6 +1,7 @@
-Hey there! Welcome to my page
+About Me
 ---
-My name is Philips, Programmer/Artist and I'm currently a Game Application and Technology Major Student 🎮☺
+My name is Philips, I'm a beginner Programmer/2D Artist.
+Based in Indonesia, currently a Game Application and Technology Major Student 🎮☺
  
 <table width="100%">
   <thead>
@@ -10,7 +11,7 @@ My name is Philips, Programmer/Artist and I'm currently a Game Application and T
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Gramonesk/Gramonesk/Display/Plant Growth.gif"/></td>
+      <td><img src="https://github.com/Gramonesk/Gramonesk/blob/main/Plant Growth.gif"/></td>
     </tr>
     <tr>
      <td valign="text-top">5 Years From Now.</td>
