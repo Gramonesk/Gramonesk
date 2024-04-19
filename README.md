@@ -11,7 +11,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Gramonesk/Gramonesk/blob/main/Plant Growth.gif"/></td>
+      <td><img src="https://github.com/Gramonesk/Gramonesk/blob/main/Plant_Growth.gif"/></td>
     </tr>
     <tr>
      <td valign="text-top">5 Years From Now.</td>
