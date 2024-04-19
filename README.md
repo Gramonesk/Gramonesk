@@ -14,7 +14,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
       <td><img src="https://github.com/Gramonesk/Gramonesk/blob/main/Plant_Growth.gif"/></td>
     </tr>
     <tr>
-     <td valign="text-top">5 Years From Now.</td>
+     <td valign="text-top">5 Years From Now is a time-based game where our goal is to reach a certain quota. Currently the user can only move and interact with objects</td>
     </tr>
     <tr>
       <td align="center"><a href="https://juan-xavier.itch.io/across-java">Itch Page</td>
