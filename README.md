@@ -17,9 +17,11 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
      <td valign="text-top">5 Years From Now is a time-based game where our goal is to reach a certain quota. Currently the user can only move and interact with objects</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://juan-xavier.itch.io/across-java">Itch Page</td>
+      <td align="center"><a href="https://juan-xavier.itch.io/5-year-from-now">Itch Page</td>
     </tr>
     <tr>
     </tr>
   </tbody>
 </table>
+
+<a href="https://www.canva.com/design/DAGCv4W63AI/oKm25Bqa4i9jrMhQp0yXPA/view?utm_content=DAGCv4W63AI&utm_campaign=designshare&utm_medium=link&utm_source=viewer"> Portofolio Canva</a>
