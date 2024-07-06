@@ -3,25 +3,60 @@ About Me
 My name is Philips, I'm a beginner Programmer/2D Artist.
 Based in Indonesia, currently a Game Application and Technology Major Student 🎮☺
  
-<table width="100%">
+<h2>My Projects</h2>
+
+<!-- ============================================= -->
+<table>
   <thead>
     <tr>
-     <th width="100%" align="center"><a>5 Years From Now</a></th>
+      <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><img src="https://github.com/Gramonesk/Gramonesk/blob/main/Plant_Growth.gif"/></td>
-    </tr>
-    <tr>
-     <td valign="text-top">5 Years From Now is a time-based game where our goal is to reach a certain quota. Currently the user can only move and interact with objects</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://juan-xavier.itch.io/5-year-from-now">Itch Page</td>
-    </tr>
-    <tr>
-    </tr>
+  <tr width="500px" align="center">
+  <td>
+    
+VIDEO
+
+  </td>
+  <td>
+
+VIDEO
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
+  </td>
+  <td valign="text-top">
+
+  </td>
+  </tr>
+  
+
   </tbody>
 </table>
+<!-- ============================================= -->
+<!-- ============================================= -->
+<h2>My Tools</h2>
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">Learning Sources</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="left">
+  <td>
 
-<a href="https://www.canva.com/design/DAGCv4W63AI/oKm25Bqa4i9jrMhQp0yXPA/view?utm_content=DAGCv4W63AI&utm_campaign=designshare&utm_medium=link&utm_source=viewer"> Portofolio Canva</a>
+  - Youtube
+  - Unity Documentation
+  - Game Samples
+  - Library Documentation
+  
+  </td>
+  </tr>
+  </tbody>
+</table>
+<!-- ============================================= -->
