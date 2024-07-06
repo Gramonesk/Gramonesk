@@ -10,6 +10,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
+      <th width="500px" align="center"><a href="">WIP</th>
     </tr>
   </thead>
   <tbody>
@@ -27,7 +28,22 @@ VIDEO
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Knights N Pong it's a minigame i created using Unity Engine, I'm currently still new to Unity Engine and this is my second project after "MyFirstProject". Just a simple game based on Pong. This game is about two knights having fun passing ball each other.
+Aquarencia adalah game yang dikembangkan bergenre Adventure dan Role Playing 
+Game. Karakter Utama, Made akan mengeksplorasi dunia bawah 
+laut dan berinteraksi dengan kehidupan di dalamnya menggunakan 
+kamera. Made juga berperan sebagai seorang influencer sekaligus penjaga toko yang  
+mengatur akun media sosial dan toko itu sendiri. 
+
+   Game ini meningkatkan pengetahuan mengenai penyu sebagai satwa yang 
+terancam punah dan konservasinya melalui media game. Seorang fotografer 
+mendapatkan pesan permintaan tolong dari teman dekatnya yang berhasil 
+mendapatkan lisensi untuk menjalankan sebuah konservasi penyu. Mengingat 
+kecintaannya dengan dunia bawah laut saat kecil, sang fotografer setuju untuk 
+membantu menggunakan caranya sendiri. Terjun sebagai seorang influencer 
+fotografi, dia harus menggunakan kemampuannya untuk meningkatkan 
+popularitas dan pendanaan konservasi penyu temannya. Player akan 
+mengendalikan sang fotografer dan melihat bersama petualangan yang 
+dilakukannya. 
   </td>
   <td valign="text-top">
 
