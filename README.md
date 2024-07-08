@@ -31,15 +31,11 @@ Aquarencia adalah game yang dikembangkan bergenre Adventure dan Role Playing Gam
 laut dan berinteraksi dengan kehidupan di dalamnya menggunakan kamera. Made juga berperan sebagai seorang influencer sekaligus penjaga 
 toko yang mengatur akun media sosial dan toko itu sendiri. 
   </td>
-  </td> 
-   <td>
 
   <td valign="text-top">
 
   </td>
   </tr>
-
-
   </tbody>
 </table>
 <!-- ============================================= -->
