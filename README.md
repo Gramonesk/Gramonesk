@@ -27,9 +27,7 @@ VIDEO
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Aquarencia adalah game yang dikembangkan bergenre Adventure dan Role Playing Game. Karakter Utama, Made akan mengeksplorasi dunia bawah 
-laut dan berinteraksi dengan kehidupan di dalamnya menggunakan kamera. Made juga berperan sebagai seorang influencer sekaligus penjaga 
-toko yang mengatur akun media sosial dan toko itu sendiri. 
+<b>Aquarencia</b> is an Adventure and Role-Playing Game (RPG) where players take on the role of the main character, <b>Made</b>. Made explores an underwater world and interacts with turtles using a camera and his submarine. Interestingly, Made also serves as an influencer and shopkeeper, managing social media accounts and the shop itself. The game combines exploration, photography, and social simulation elements.
   </td>
 
   <td valign="text-top">
