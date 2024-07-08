@@ -27,7 +27,7 @@ VIDEO
   </tr>
   <tr width="500px">
 <td valign="text-top">
-    <b style="color: #0074D9;">Aquarencia</b> is an <i style="color: #FF4136;">Adventure and Role-Playing Game (RPG)</i> where players take on the role of the main character, <b style="color: #0074D9;">Made</b>. Made explores an underwater world and interacts with turtles using a camera and his submarine. Interestingly, Made also serves as an influencer and shopkeeper, managing social media accounts and the shop itself. The game combines exploration, photography, and social simulation elements.
+    <b style="color: #0074D9;">$${\color{blue}Blue}$$Aquarencia</b> is an <i style="color: #FF4136;">Adventure and Role-Playing Game (RPG)</i> where players take on the role of the main character, <b style="color: #0074D9;">$${\color{blue}Blue}$$Made</b>. Made explores an underwater world and interacts with turtles using a camera and his submarine. Interestingly, Made also serves as an influencer and shopkeeper, managing social media accounts and the shop itself. The game combines exploration, photography, and social simulation elements.
 </td>
 
   <td valign="text-top">
