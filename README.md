@@ -16,7 +16,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <tbody>
   <tr width="500px" align="center">
   <td>
-   ytoyiasdfjasfd ![0708](https://github.com/Gramonesk/Gramonesk/assets/154248035/ec41974c-62f7-4ead-80ef-393aa21d260f)
+    ![0708](https://github.com/Gramonesk/Aquarencia/assets/154248035/1d77c15e-ad8f-4821-9c35-075894bda903)
   </td>
   <td>
 
