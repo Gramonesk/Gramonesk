@@ -16,6 +16,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <tbody>
   <tr width="500px" align="center">
   <td>
+   
      ![0708](https://github.com/Gramonesk/Gramonesk/assets/154248035/dd2d6db8-f6a9-42b9-9091-a2980afde652)
   </td>
   <td>
