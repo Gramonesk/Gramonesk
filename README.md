@@ -16,7 +16,9 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <tbody>
   <tr width="500px" align="center">
   <td>
-    ![0708](https://github.com/Gramonesk/Aquarencia/assets/154248035/1d77c15e-ad8f-4821-9c35-075894bda903)
+
+
+
   </td>
   <td>
 
@@ -37,7 +39,7 @@ toko yang mengatur akun media sosial dan toko itu sendiri.
 
   </td>
   </tr>
-  
+
 
   </tbody>
 </table>
@@ -54,13 +56,15 @@ toko yang mengatur akun media sosial dan toko itu sendiri.
   <tr width="500px" align="left">
   <td>
 
-  - Youtube
-  - Unity Documentation
-  - Game Samples
-  - Library Documentation
   
-  </td>
-  </tr>
-  </tbody>
+Youtube
+Unity Documentation
+Game Samples
+Library Documentation
+
+</td>
+</tr>
+</tbody>
+
 </table>
 <!-- ============================================= -->
