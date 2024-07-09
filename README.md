@@ -10,7 +10,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
-      <th width="500px" align="center"><a href="">WIP</th>
+      <th width="500px" align="center"><a href="https://github.com/Gramonesk/Enchanter">Enchanter</th>
     </tr>
   </thead>
   <tbody>
@@ -21,7 +21,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   </td>
   <td>
 
-VIDEO
+![0709](https://github.com/Gramonesk/Gramonesk/assets/154248035/2886ba8a-8414-4a2f-9f74-7e49c566307e)
 
   </td>
   </tr>
@@ -31,7 +31,7 @@ VIDEO
 </td>
 
   <td valign="text-top">
-
+  Enchanter is a Card-based / DeckBuilding Game where each player takes their turn on attacking the opposing based on Character speed.
   </td>
   </tr>
   </tbody>
