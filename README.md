@@ -20,8 +20,8 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
 
   </td>
   <td>
-
-![0709](https://github.com/Gramonesk/Gramonesk/assets/154248035/2886ba8a-8414-4a2f-9f74-7e49c566307e)
+   
+![WHITE LEGEND](https://github.com/user-attachments/assets/68186c8d-6c48-49e6-89bf-c718463144a7)
 
   </td>
   </tr>
