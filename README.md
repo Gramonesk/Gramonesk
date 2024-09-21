@@ -38,6 +38,37 @@ speed.
   </tbody>
 </table>
 <!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th>Trashure</th>
+      <th>White Legend Knight</th>
+    </tr>
+  </thead>
+  <tbody>
+  <td>
+
+![0708](https://github.com/Gramonesk/Gramonesk/assets/154248035/f78a3136-e036-449a-a8e1-bfe028b4f884)
+
+  </td>
+  <td>
+
+![0709](https://github.com/Gramonesk/Gramonesk/assets/154248035/2886ba8a-8414-4a2f-9f74-7e49c566307e)
+
+  </td>
+  </tr>
+  <tr width="500px">
+<td valign="text-top">
+    Trashure is a 3D Multiplayer Casual Party Game. Managing and processing trash has been a challenge throughout the world. Alone or with friends, help the world by managing things in Trashure factory. Work together, avoid disaster, and most importantly process all the trash for customer.
+</td>
+
+  <td valign="text-top">
+In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom.
+speed.
+  </td>
+  </tr>
+  </tbody>
+</table>
 <!-- ============================================= -->
 <h2>My Tools</h2>
 <table>
