@@ -82,10 +82,10 @@ speed.
   <td>
 
   
-Youtube
-Unity Documentation
-Game Samples
-Library Documentation
+- Youtube
+- Unity Documentation
+- Game Samples
+- Library Documentation
 
 </td>
 </tr>
