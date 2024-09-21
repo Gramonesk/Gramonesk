@@ -47,8 +47,8 @@ speed.
   </thead>
   <tbody>
   <td>
-
-![0708](https://github.com/Gramonesk/Gramonesk/assets/154248035/f78a3136-e036-449a-a8e1-bfe028b4f884)
+   
+![Trashure Gif](https://github.com/user-attachments/assets/4bc3d33b-1771-45e8-a657-6d34836c7240)
 
   </td>
   <td>
