@@ -10,7 +10,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
-      <th width="500px" align="center"><a href="https://github.com/Gramonesk/Enchanter">Enchanter</th>
+      <th>White Legend Knight</th>
     </tr>
   </thead>
   <tbody>
@@ -31,7 +31,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
 </td>
 
   <td valign="text-top">
-  Enchanter is a strategic card-based deck-building game where players take turns attacking opponents based on the speed of their characters. Each decision impacts the flow of battle, creating a dynamic and engaging gameplay experience.
+   In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom.
 speed.
   </td>
   </tr>
@@ -42,7 +42,7 @@ speed.
   <thead>
     <tr>
       <th>Trashure</th>
-      <th>White Legend Knight</th>
+      <th width="500px" align="center"><a href="https://github.com/Gramonesk/Enchanter">Enchanter</th>
     </tr>
   </thead>
   <tbody>
@@ -63,8 +63,7 @@ speed.
 </td>
 
   <td valign="text-top">
-In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom.
-speed.
+  Enchanter is a strategic card-based deck-building game where players take turns attacking opponents based on the speed of their characters. Each decision impacts the flow of battle, creating a dynamic and engaging gameplay experience.
   </td>
   </tr>
   </tbody>
