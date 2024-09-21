@@ -31,7 +31,8 @@ Based in Indonesia, currently a Game Application and Technology Major Student ğŸ
 </td>
 
   <td valign="text-top">
-  Enchanter is a Card-based / DeckBuilding Game where each player takes their turn on attacking the opposing based on Character speed.
+  Enchanter is a strategic card-based deck-building game where players take turns attacking opponents based on the speed of their characters. Each decision impacts the flow of battle, creating a dynamic and engaging gameplay experience.
+speed.
   </td>
   </tr>
   </tbody>
