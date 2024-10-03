@@ -52,8 +52,8 @@ speed.
 
   </td>
   <td>
-
-![0709](https://github.com/Gramonesk/Gramonesk/assets/154248035/2886ba8a-8414-4a2f-9f74-7e49c566307e)
+   
+![Enchanter2](https://github.com/user-attachments/assets/f48d53bf-7849-453c-ab0c-52383f704455)
 
   </td>
   </tr>
