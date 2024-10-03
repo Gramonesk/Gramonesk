@@ -10,7 +10,7 @@ Based in Indonesia, currently a Game Application and Technology Major Student ðŸ
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
-      <th>White Legend Knight</th>
+      <th width="500px" align="center">White Legend Knight</th>
     </tr>
   </thead>
   <tbody>
@@ -41,7 +41,7 @@ speed.
 <table>
   <thead>
     <tr>
-      <th>Trashure</th>
+      <th width="500px" align="center">Trashure</th>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Enchanter">Enchanter</th>
     </tr>
   </thead>
