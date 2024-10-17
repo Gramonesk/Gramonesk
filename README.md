@@ -40,7 +40,7 @@ speed.
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/Gramonesk/Trashure">Trashure</th>
+      <th width="500px" align="center"><a href="https://github.com/ORIAMM/Treasure">Trashure</th>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Enchanter">Enchanter</th>
     </tr>
   </thead>
