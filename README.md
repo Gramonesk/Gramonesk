@@ -1,7 +1,6 @@
 About Me
 ---
-My name is Philips, I'm a beginner Programmer/2D Artist.
-Based in Indonesia, currently a Game Application and Technology Major Student 🎮☺
+A Unity Game Programmer with expertise in software architecture and clean coding practices, I possess a strong curiosity that drives me to thoroughly analyze and deconstruct game mechanics.
  
 <h2>My Projects</h2>
 
