@@ -9,7 +9,7 @@ A Unity Game Programmer with expertise in software architecture and clean coding
   <thead>
     <tr>
       <th width="500px" align="center"><a href="https://github.com/Gramonesk/Aquarencia">Aquarencia</th>
-      <th width="500px" align="center">White Legend Knight</th>
+      <th width="500px" align="center"><a href="https://github.com/ORIAMM/Capstonee">White Legend Knight</th>
     </tr>
   </thead>
   <tbody>
