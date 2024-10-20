@@ -83,7 +83,7 @@ speed.
 - Youtube
 - Unity Documentation
 - Game Samples
-- Library Documentation
+- Library reading
 
 </td>
 </tr>
