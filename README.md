@@ -14,8 +14,8 @@ A Unity Game Programmer with expertise in software architecture and clean coding
   </thead>
   <tbody>
   <td align="center">
-
-![0708](https://github.com/Gramonesk/Gramonesk/assets/154248035/f78a3136-e036-449a-a8e1-bfe028b4f884)
+   
+![Aquarencia](https://github.com/user-attachments/assets/035e89d4-0ba8-41c2-9c19-4949a5ed1652)
 
   </td>
   <td align="center">
