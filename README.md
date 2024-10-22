@@ -1,6 +1,7 @@
 About Me
 ---
-A Unity Game Programmer with expertise in software architecture and clean coding practices, I possess a strong curiosity that drives me to thoroughly analyze and deconstruct game mechanics.
+Unity Game Programmer with expertise in software architecture and clean coding practices, I possess a strong curiosity that drives me to thoroughly analyze and deconstruct game mechanics.
+My passion for clean code not only enhances maintainability but also facilitates collaboration within development teams. 
  
 <h2>My Projects</h2>
 
